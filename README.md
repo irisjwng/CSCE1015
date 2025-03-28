@@ -1,2 +1,5 @@
 # CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
+## EUID
+ijw0032
+## Favorite Linux Command
+mkdir
